@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProyectoPeliculas</string>
+    <string name="desc_portada">Portada de la película</string>
 </resources>
